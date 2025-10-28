@@ -36,6 +36,8 @@ jautājumu.
 ## Installation Steps
 
 - palaist komandu ```composer install```
+- nokopēt ```.env.example``` kā ```.env```
+- palaist komandu ```php artisan key:generate```
 - rediģēt ```.env``` kopni un aizpildīt datubāzes pieejas datus
 - palaist komandu ```php artisan migrate --seed```
 
