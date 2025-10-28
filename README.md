@@ -50,3 +50,7 @@ jautājumu.
 
 - ```php artisan server```
 - open in browser [http://localhost:8000](http://localhost:8000)
+
+## Testēšana
+
+- testēšanai izmantojam PHPUnit ```vendor/phpunit/phpunit/phpunit```
